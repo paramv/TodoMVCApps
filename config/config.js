@@ -8,7 +8,7 @@ var config = {
     app: {
       name: 'node-ko'
     },
-    port: 3000,
+    port: 3030,
     db: 'mongodb://localhost/node-ko-development'
     
   },
@@ -18,7 +18,7 @@ var config = {
     app: {
       name: 'node-ko'
     },
-    port: 3000,
+    port: 3030,
     db: 'mongodb://localhost/node-ko-test'
     
   },
@@ -28,7 +28,7 @@ var config = {
     app: {
       name: 'node-ko'
     },
-    port: 3000,
+    port: 3030,
     db: 'mongodb://localhost/node-ko-production'
     
   }
